@@ -10,8 +10,8 @@ Using OCR model and fine-tuning to extract information from Vietnamese Identity 
 # Data
 - 300 identity cards
 - Finetune: 6000 text images
-- Result overall:
-    CER: 0.0061
-    WER: 0.0385
-    Acc per char: 0.9841914772987366
-    Acc full seq: 0.8918918967247009
+- Result overall:<br>
+    CER: 0.0061<br>
+    WER: 0.0385<br>
+    Acc per char: 0.9841914772987366<br>
+    Acc full seq: 0.8918918967247009<br>
