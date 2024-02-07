@@ -1,4 +1,5 @@
 # OCR Vietnamese Identity Card
+(This is a small AI project for AI and application class HUST 2023.1 semester)<br>
 Using OCR model and fine-tuning to extract information from Vietnamese Identity Card
 - Text detection: PaddleOCR
 - Text recognition: VietOCR
